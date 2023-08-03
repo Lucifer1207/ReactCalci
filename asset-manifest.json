@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ElectroSemiIndia/static/css/main.dd2ea0d4.css",
+    "main.js": "/ElectroSemiIndia/static/js/main.a75c2f12.js",
+    "static/js/787.0e31295a.chunk.js": "/ElectroSemiIndia/static/js/787.0e31295a.chunk.js",
+    "static/media/BackgroundCalci.avif": "/ElectroSemiIndia/static/media/BackgroundCalci.9803a4d8290b24195b17.avif",
+    "index.html": "/ElectroSemiIndia/index.html",
+    "main.dd2ea0d4.css.map": "/ElectroSemiIndia/static/css/main.dd2ea0d4.css.map",
+    "main.a75c2f12.js.map": "/ElectroSemiIndia/static/js/main.a75c2f12.js.map",
+    "787.0e31295a.chunk.js.map": "/ElectroSemiIndia/static/js/787.0e31295a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd2ea0d4.css",
+    "static/js/main.a75c2f12.js"
+  ]
+}
